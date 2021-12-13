@@ -20,3 +20,10 @@ C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvá
 C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása_MarkupCompile.lref
 C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása.exe
 C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása.pdb
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa (BerkesKristof)\obj\Debug\Feladatok nyilvántartása.csprojAssemblyReference.cache
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa (BerkesKristof)\obj\Debug\MainWindow.g.cs
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa (BerkesKristof)\obj\Debug\App.g.cs
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa (BerkesKristof)\obj\Debug\Feladatok nyilvántartása_MarkupCompile.cache
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa (BerkesKristof)\obj\Debug\Feladatok nyilvántartása_MarkupCompile.lref
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa (BerkesKristof)\obj\Debug\Feladatok nyilvántartása.exe
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa (BerkesKristof)\obj\Debug\Feladatok nyilvántartása.pdb
