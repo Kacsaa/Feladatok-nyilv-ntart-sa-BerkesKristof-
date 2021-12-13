@@ -85,7 +85,11 @@ namespace Feladatok_nyilvántartása
 
         private void Feltörl(object sender, RoutedEventArgs e)
         {
-            
+            if (fl.SelectedItems.Count == 1)
+            {
+                tl.items.Add(new CheckBox { Content = $"{fl.SelectedItems}" });
+                fl.SelectedItems.Remove;
+            }
         }
     }
 }
