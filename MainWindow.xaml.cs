@@ -78,16 +78,26 @@ namespace Feladatok_nyilvántartása
             }
         }
 
+        protected void Kivalaszt(object sender, KeyboardFocusChangedEventArgs e)
+        {
+            ListViewItem fl = (ListViewItem)sender;
+            fl.IsSelected = true;
+        }
+
         private void Felmod(object sender, RoutedEventArgs e)
         {
-
+            if (fl.SelectedItems.Count == 1)
+            {
+                
+            }
         }
 
         private void Feltörl(object sender, RoutedEventArgs e)
         {
             if (fl.SelectedItems.Count == 1)
             {
-                tl.items.Add(new CheckBox { Content = $"{fl.SelectedItems}" });
+                tl.Items.Add(new CheckBox { Content = $"{fl.SelectedItems}" });
+                File.WriteAllText("tfellista.dat");
                 fl.SelectedItems.Remove;
             }
         }
