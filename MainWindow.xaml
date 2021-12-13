@@ -1,0 +1,23 @@
+﻿<Window x:Class="Feladatok_nyilvántartása.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Feladatok_nyilvántartása"
+        mc:Ignorable="d"
+        Title="Feladtatok nyilvántartása" Height="490" Width="654">
+    <Grid>
+        <Label Content="Feladatok listája" FontSize="11pt" HorizontalAlignment="Left" VerticalAlignment="Top" Width="114" Height="35"/>
+        <ListBox x:Name="fl" HorizontalAlignment="Left" Width="351" Margin="10,37,0,227"></ListBox>
+        <Label Content="Törölt elemek" FontSize="11pt" HorizontalAlignment="Left" Width="104" Height="35" Margin="10,240,0,170"></Label>
+        <ListBox x:Name="tl" HorizontalAlignment="Left" Width="351" Margin="10,280,0,10"></ListBox>
+        <Label Content="Feladat szövege:" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="11pt" Margin="0,0,88,0" Height="35" Width="140"></Label>
+        <TextBox x:Name="fsz" Margin="392,37,24,373"></TextBox>
+        <Button x:Name="uh" Content="Új hozzáadása" FontSize="11pt" Height="35" Margin="392,88,24,324" Click="Ujhzzad"></Button>
+        <Button x:Name="kfm" Content="Kijelölt feladat módosítása" FontSize="11pt" Height="35" Margin="392,128,24,284" Click="Felmod"></Button>
+        <Button x:Name="kft" Content="Kijelölt feladat törlése" FontSize="11pt" Height="35" Margin="392,168,24,244" Click="Feltörl"></Button>
+        <Button x:Name="kfv" Content="Kijelölt feladat visszaállít" FontSize="11pt" Height="35" Margin="392,286,24,126"></Button>
+        <Button x:Name="kfvt" Content="Kijelölt feladat végleges törlése" FontSize="11pt" Height="35" Margin="392,334,24,78"></Button>
+        <Label Content="Kristóf Berkes @ 2021" FontSize="11pt" Margin="482,414,0,0"></Label>
+    </Grid>
+</Window>

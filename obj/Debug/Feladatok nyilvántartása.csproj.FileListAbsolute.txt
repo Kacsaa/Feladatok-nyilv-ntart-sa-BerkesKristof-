@@ -1,0 +1,22 @@
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\bin\Debug\Feladatok nyilvántartása.exe.config
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\bin\Debug\Feladatok nyilvántartása.exe
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\bin\Debug\Feladatok nyilvántartása.pdb
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása.csprojAssemblyReference.cache
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\MainWindow.g.cs
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\App.g.cs
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása_MarkupCompile.cache
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása_MarkupCompile.lref
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\MainWindow.baml
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása.g.resources
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok_nyilvántartása.Properties.Resources.resources
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása.csproj.GenerateResource.cache
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása.csproj.CoreCompileInputs.cache
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása.exe
+D:\Programozás gyakorlat\2021-12-11 WPF\Feladatok nyilvántartása\obj\Debug\Feladatok nyilvántartása.pdb
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása.csprojAssemblyReference.cache
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\MainWindow.g.cs
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\App.g.cs
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása_MarkupCompile.cache
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása_MarkupCompile.lref
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása.exe
+C:\Users\jkacs\Desktop\Feladatok-nyilv-ntart-sa-main\obj\Debug\Feladatok nyilvántartása.pdb
